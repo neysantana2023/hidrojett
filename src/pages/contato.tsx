@@ -31,8 +31,9 @@ const Home: React.FC<{}> = () => {
                                                 <span className="fa fa-map-marker"></span>
                                             </div>
                                             <div className="text">
-                                                <p><span>Endereço:</span> Rua Narain Singh Luschini, 204 - Parque Continental II
-                                                    Guarulhos - SP</p>
+                                                <p><span>Endereço:</span> Rua Heloisa Pamplona, 32,
+                                fundação São Caetano do Sul - São Paulo
+                                CEP: 09520-320</p>
                                             </div>
                                         </div>
                                     </div>
