@@ -2,6 +2,7 @@ import Image from 'next/image';
 import Logo from "../assets/images/small/Logo_RamilDesentupidora.png";
 import Head from "next/head"
 import React from "react";
+import { CiGlobe } from "react-icons/ci";
 
 const HeaderApp: React.FC<{}> = ({ }) => {
 
@@ -13,8 +14,9 @@ const HeaderApp: React.FC<{}> = ({ }) => {
 
             <nav className="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
                 <div className="container">
-                    <a aria-label="Home" className="navbar-brand" href={"/"}>
-                        <Image src={Logo} alt="logo" width={260} height={70} />
+                <CiGlobe className='text-light' style={{"paddingRight": "7px", "fontSize": "51px"}}/> <a aria-label="Home" className="navbar-brand" href={"/"}>
+                        {/* <Image src={Logo} alt="logo" width={260} height={70} /> */}
+                         Hidrojett Desentupidora
                     </a>
                     {/* <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
                     aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
@@ -46,8 +48,8 @@ const HeaderApp: React.FC<{}> = ({ }) => {
                             </li>
                             <li className="nav-item">
 
-                                <a href="tel:+5511910152082" className="nav-link" aria-label="Telefone de contato">
-                                    TELEFONE: (11) 91015-2082
+                                <a href="tel:+5511937773016" className="nav-link" aria-label="Telefone de contato">
+                                    TELEFONE: (11) 93777-3016
                                 </a>
                             </li>
                         </ul>

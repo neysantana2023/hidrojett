@@ -43,7 +43,7 @@ const Home: React.FC<{}> = () => {
                                             </div>
                                             <div className="text">
                                                 <p><span>Telefone:</span>
-                                                    <a href="tel://5511910152082">91015-2082</a>
+                                                    <a href="tel://5511937773016">93777-3016</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -54,8 +54,8 @@ const Home: React.FC<{}> = () => {
                                                 <span className="fa fa-paper-plane"></span>
                                             </div>
                                             <div className="text">
-                                                <p><span>Email:</span> <a href="mailto:desentupidoraramil@gmail.com">
-                                                    desentupidoraramil@gmail.com</a></p>
+                                                <p><span>Email:</span> <a href="mailto:desentupidorahidrojett@gmail.com">
+                                                    desentupidorahidrojett@gmail.com</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -65,7 +65,7 @@ const Home: React.FC<{}> = () => {
                                                 <span className="fa fa-globe"></span>
                                             </div>
                                             <div className="text">
-                                                <p><span>Website</span> <a href="#">www.sambaibadesentupidora.com.br</a></p>
+                                                <p><span>Website</span> <a href="#">https://www.hidrojett.com.br/</a></p>
                                             </div>
                                         </div>
                                     </div>

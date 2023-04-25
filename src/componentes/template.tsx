@@ -10,7 +10,7 @@ const Template: React.FC<any> = (props: { children: any }) => {
     return (
         <React.Fragment>
             <Head>
-                <title>Desentupidora Ramil - Desentupidora 24 horas - Faça seu orçamento agora mesmo</title>
+                <title>Desentupidora Hidrojett - Desentupidora 24 horas - Faça seu orçamento agora mesmo</title>
                 <meta charSet="utf-8" />
                 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
@@ -20,11 +20,11 @@ const Template: React.FC<any> = (props: { children: any }) => {
                 <link rel="stylesheet" href="https://d36p6ty9wanxdj.cloudfront.net/css/font.css" media="screen" />
                 <link rel="stylesheet" href="https://d36p6ty9wanxdj.cloudfront.net/css/owl.carousel.min.css" media="screen" />
                 <link rel="stylesheet" href="https://d36p6ty9wanxdj.cloudfront.net/css/owl.theme.default.min.css" media="screen" />
-                <link rel="canonical" href="https://www.desentupidoraramil.com.br" />
+                <link rel="canonical" href="https://www.hidrojett.com.br/" />
                 <link rel="shortcut icon" href="favicon.ico" />
 
-                <meta name="description" content="A desentupidora ramil atua no mercado de dentupimento de pia, ralo, vaso sanitário, esgoto, caixas de gordura e entre outros serviços que prezam pela sua saúde!" />
-                <meta name="keywords" content="Desentupidora Zona Norte,Desentupimento Zona Sul,Rf Desentupidora,desentupimento,manutenção predial,encanamento,desentupidora,desentupir vaso,desentupir pia,desentupidor de vaso,desentupir privada,desentupimentos,vaso entupido,desentupidora preço,desentupir esgoto,desentupidora zona leste,desentupidora de vaso,desentupidora na zona leste,desentupidora em são paulo,desentupir rede de esgoto,empresa de desentupimento,desentupimentos de esgotos,desentupir encanamento,desentupidora 24h,telefone de desentupidora,desentupidor de vaso preço,desentupidor de banheiro,serviços de manutenção predial,preço para desentupir vaso sanitario,desentupidora 24 horas zona leste" />
+                <meta name="description" content="A desentupidora Hidrojett atua no mercado de dentupimento de pia, ralo, vaso sanitário, esgoto, caixas de gordura e entre outros serviços que prezam pela sua saúde!" />
+                <meta name="keywords" content= "Hidrojett,Jato de água,Limpeza com jato de água,Hidrojato,Equipamento de hidrojateamento,Hidrojateadora,Jateamento de alta pressão,Limpeza de superfícies com água pressurizada,Hidrojateamento industrial,Aplicações do hidrojateamento"/>
                 <meta name="geo.position" content="-23.428520, -46.550968" />
                 <meta name="geo.placename" content="Guarulhos-São Paulo" />
                 <meta name="geo.region" content="SP-BR" />
@@ -36,13 +36,13 @@ const Template: React.FC<any> = (props: { children: any }) => {
                 <meta property="og:region" content="Brasil" />
                 <meta property="og:title" content="Rf Desentupidora" />
                 <meta property="og:type" content="article" />
-                <meta property="og:url" content="https://www.desentupidoraramil.com.br/" />
-                <meta property="og:description" content="A Rf Desentupidora atua no mercado de desentupimento em Geral e entre outros serviços que prezam pela sua saúde!" />
-                <meta property="og:site_name" content="Rf Desentupidora" />
+                <meta property="og:url" content="https://www.hidrojett.com.br/" />
+                <meta property="og:description" content="A Hidrojett Desentupidora atua no mercado de desentupimento em Geral e entre outros serviços que prezam pela sua saúde!" />
+                <meta property="og:site_name" content="Hidrojett Desentupidora" />
                 <meta name="twitter:card" content="summary" />
-                <meta name="twitter:url" content="https://www.desentupidoraramil.com.br/" />
+                <meta name="twitter:url" content="https://www.hidrojett.com.br/" />
                 <meta name="twitter:title" content="Rf Desentupidora" />
-                <meta name="twitter:description" content="A desentupidora ramil Desentupidora atua no mercado de desentupimento em Geral e entre outros serviços que prezam pela sua saúde!" />
+                <meta name="twitter:description" content="A desentupidora Hidrojett Desentupidora atua no mercado de desentupimento em Geral e entre outros serviços que prezam pela sua saúde!" />
             </Head>
             <section>
                 <HeaderApp />

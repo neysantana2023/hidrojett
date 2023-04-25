@@ -25,7 +25,7 @@ const QuemSomos: React.FC<{}> = () => {
                         </div>
                     </div>
                     <div className="block-left col-md-12">
-                        <a href="tel:+5511910152082" id="btnLigarAgora" aria-label="Ligue"
+                        <a href="tel:+5511937773016" id="btnLigarAgora" aria-label="Ligue"
                             className="btn btn-primary margin-btn col-xs-12 col-sm-12 col-md-12 col-lg-12">
                             CLICK AQUI E LIGUE AGORA
                         </a>
@@ -41,7 +41,7 @@ const QuemSomos: React.FC<{}> = () => {
                                 <div className="icon">
                                     <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="40pt" height="60pt"
                                         viewBox="0 0 94.000000 94.000000" preserveAspectRatio="xMidYMid meet">
-                                        <g transform="translate(0.000000,94.000000) scale(0.100000,-0.100000)" fill="#4682B4"
+                                        <g transform="translate(0.000000,94.000000) scale(0.100000,-0.100000)" fill="#FFF"
                                             stroke="none">
                                             <path d="M333 921 c-260 -96 -362 -406 -207 -631 29 -43 34 -58 34 -108 l0
 -59 -36 -6 c-58 -10 -124 -53 -124 -82 0 -32 32 -34 75 -5 41 27 88 25 141 -6
@@ -65,7 +65,7 @@ const QuemSomos: React.FC<{}> = () => {
                                 </div>
                                 <div className="text">
                                     <h2>DESENTUPIMENTO DE ESGOTOS</h2>
-                                    <p>A Ramil Desentupidora é especialista em todo o tipo de desentupimento.
+                                    <p>A Hidrojett Desentupidora é especialista em todo o tipo de desentupimento.
                                         Atuando em diferentes tipos de encanamento possui uma equipe técnica capacitada para
                                         sempre achar o problema de maneira rápida,
                                         prática e eficiente.</p>
@@ -77,7 +77,7 @@ const QuemSomos: React.FC<{}> = () => {
                                 <div className="icon">
                                     <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="40pt" height="60pt"
                                         viewBox="0 0 94.000000 88.000000" preserveAspectRatio="xMidYMid meet">
-                                        <g transform="translate(0.000000,88.000000) scale(0.100000,-0.100000)" fill="#4682B4"
+                                        <g transform="translate(0.000000,88.000000) scale(0.100000,-0.100000)" fill="#FFF"
                                             stroke="none">
                                             <path d="M267 837 c-82 -35 -104 -49 -133 -87 -31 -39 -33 -46 -20 -56 13 -9
 16 -38 16 -177 l0 -166 -37 -3 c-38 -3 -38 -3 -41 -51 -3 -43 -1 -49 18 -54
@@ -112,7 +112,7 @@ l-130 -23 -125 23 c-105 20 -124 27 -124 42 0 17 15 18 255 18 241 0 255 -1
                                 <div className="icon" style={{ "float": "left" }}>
                                     <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="40pt" height="60pt"
                                         viewBox="0 0 67.000000 94.000000" preserveAspectRatio="xMidYMid meet">
-                                        <g transform="translate(0.000000,94.000000) scale(0.100000,-0.100000)" fill="#4682B4"
+                                        <g transform="translate(0.000000,94.000000) scale(0.100000,-0.100000)" fill="#FFF"
                                             stroke="none">
                                             <path d="M527 922 c-15 -16 -17 -50 -17 -270 0 -217 -2 -252 -15 -252 -12 0
 -15 -19 -15 -115 0 -96 3 -115 15 -115 24 0 20 -85 -5 -110 -28 -28 -49 -31
