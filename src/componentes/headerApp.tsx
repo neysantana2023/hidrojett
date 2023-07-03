@@ -1,5 +1,4 @@
-import Image from 'next/image';
-import Logo from "../assets/images/small/Logo_RamilDesentupidora.png";
+
 import Head from "next/head"
 import React from "react";
 import { CiGlobe } from "react-icons/ci";
@@ -24,7 +23,6 @@ const HeaderApp: React.FC<{}> = ({ }) => {
                 </button> */}
 
                     <div className="collapse navbar-collapse" id="ftco-nav">
-
                         <ul className="navbar-nav ml-auto">
                             <li className="nav-item active">
                                 <a aria-label="Home" href={"/"} className="nav-link">
@@ -47,7 +45,6 @@ const HeaderApp: React.FC<{}> = ({ }) => {
                                 </a>
                             </li>
                             <li className="nav-item">
-
                                 <a href="tel:+5511937773016" className="nav-link" aria-label="Telefone de contato">
                                     TELEFONE: (11) 93777-3016
                                 </a>
