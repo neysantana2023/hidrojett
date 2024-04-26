@@ -12,7 +12,7 @@ import { BtnLigueAgora } from '../componentes/ligueAgora';
 
 const Home: NextPage = () => {
 
-  let titulo: string = "Desentupidora 24 horas";
+  let titulo: string = "Desentupidora 24 horas/ 7 dias na semana ";
   return (
     <React.Fragment>
 
